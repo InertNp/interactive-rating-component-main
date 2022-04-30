@@ -55,7 +55,7 @@ body {
   text-align: start;
   width: 80%;
 }
-.text-container span {
+.text-container h1 {
   font-weight: 700;
   color: var(--white);
   font-size: 1.6rem;
